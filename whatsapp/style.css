@@ -1,0 +1,29 @@
+ body{
+    padding: 0;
+    margin: 0;
+    background-color: aqua;
+ }
+ .one{
+    width: 320px;
+    height: 320px;
+    border-radius: 50%;
+    background-color: rgb(12, 223, 61);
+    margin-left: 550px;
+    margin-top: 140px;
+ }
+.two{
+    position: absolute;
+    
+    border-radius: 200px 200px 200px 0px;
+-webkit-border-radius: 200px 200px 200px 0px;
+-moz-border-radius: 200px 200px 200px 0px;
+border: 12px solid #fff;
+width: 200px;
+height: 200px;
+margin-left: 50px;
+margin-top: 42px;
+
+}
+.three{
+        
+}
